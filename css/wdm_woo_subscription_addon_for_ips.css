@@ -1,0 +1,30 @@
+table#wdm_social_domain_table {
+    width:40%;
+}
+table#wdm_social_domain_table  {
+    border: 1px solid #2ea2cc;
+    border-collapse: collapse;
+}
+table#wdm_social_domain_table th, table#wdm_social_domain_table td {
+    padding: 5px;
+    text-align: left;
+}
+table#wdm_social_domain_table tr:nth-child(even) {
+    background-color: #eee;
+}
+table#wdm_social_domain_table tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#wdm_social_domain_table th	{
+    background-color: #2ea2cc;
+    color: white;
+}
+
+.wdm_save_templates{
+	margin-right: 74% !important;
+}
+
+.wdm_add_social_domains{
+	margin-right: 70% !important;
+}
+
